@@ -10,5 +10,9 @@ public class Example {
 	{
 		System.out.println("My Name is Srinu");
 	}
+	public static void usha()
+	{
+		System.out.println("my name is usha");
+	}
 
 }
