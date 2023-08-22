@@ -14,5 +14,9 @@ public class Example {
 	{
 		System.out.println("my name is usha");
 	}
+	public static void Swathi()
+	{
+		System.out.println("my name is Swathi");
+	}
 
 }
